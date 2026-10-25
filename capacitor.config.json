@@ -1,0 +1,8 @@
+{
+  "appId": "com.yourname.chekers",
+  "appName": "Chekers",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "always"
+  }
+}
